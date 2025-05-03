@@ -6,3 +6,5 @@ openpyxl
 seaborn
 scikit-learn
 scipy
+imageio
+gdown
