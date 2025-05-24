@@ -8,5 +8,11 @@ venv/**
 *.h5
 *.keras
 *.jpg
+
 aclImdb_v1**
 run.sh
+*.pkl
+*.pt
+*.csv
+*.hdf5
+*.zip
