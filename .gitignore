@@ -16,3 +16,5 @@ run.sh
 *.csv
 *.hdf5
 *.zip
+ChopinNoctur*
+nocturnesNotes*
