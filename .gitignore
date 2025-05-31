@@ -16,5 +16,11 @@ run.sh
 *.csv
 *.hdf5
 *.zip
-ChopinNoctur*
-nocturnesNotes*
+aclImdb*
+ChopinNocturnesGenerated*
+glove.6B.100d.txt
+Italian.txt
+nocturnesNotesLibrary
+conlleval.py
+__pycache__
+conll_*
